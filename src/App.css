@@ -1,3 +1,11 @@
+.Profile.container{
+  float: left;
+}
+
+img{
+  width: 200px;
+}
+
 .App {
   text-align: center;
 }
