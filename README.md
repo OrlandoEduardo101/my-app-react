@@ -1,3 +1,5 @@
+App basico em React consumindo a API do github só para testes iniciais com a ferramenta.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
